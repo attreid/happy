@@ -1,0 +1,29 @@
+{
+	"name": "happy",
+	"description": "https://github.com/paveljanda/happy",
+	"main": "./dist/happy.js",
+	"version": "1.5.1",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:nattreid/utils.git"
+	},
+	"author": {
+		"name": "Pavel Janda",
+		"email": "me@paveljanda.com"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"jquery": ">= 1.11.0"
+	},
+	"devDependencies": {
+		"gulp": "~4",
+		"gulp-concat": "~2",
+		"gulp-uglify": "~3",
+		"gulp-sass": "~4",
+		"gulp-coffee": "~3",
+		"gulp-minify-css": "~1",
+		"gulp-rename": "~1",
+		"gulp-concat-css": "~3",
+		"browser-sync": "~2"
+	}
+}

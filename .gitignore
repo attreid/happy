@@ -3,3 +3,5 @@ public
 deployment
 .htdeployment
 index.php
+/package-lock.json
+/.idea
